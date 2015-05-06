@@ -1,0 +1,8 @@
+{
+  "name"        : "sequelize-update-test",
+  "version"     : "0.0.1",
+  "dependencies": {
+    "mysql"    : "^2.6.2",
+    "sequelize": "^2.1.0"
+  }
+}
